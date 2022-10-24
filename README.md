@@ -1,0 +1,1 @@
+# react-stale-closure
